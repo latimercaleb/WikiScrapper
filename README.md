@@ -9,7 +9,7 @@ Assuming the user is at the Wikipedia article for Wild Yak​ .
 minimum number of clicks to get from one to the other.
 
 * Your program should be runnable one the command line like this:
-`$ my_program ‘Wild yak’ ‘Phil McGraw’``
+`$ my_program ‘Wild yak’ ‘Phil McGraw’`
 
 * The program’s output should include each link that needs to be clicked to reach the final destination of Phil McGraw.
 
