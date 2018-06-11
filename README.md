@@ -13,7 +13,7 @@ minimum number of clicks to get from one to the other.
 
 * The program’s output should include each link that needs to be clicked to reach the final destination of Phil McGraw.
 
-** Technical Constraints**
+**Technical Constraints**
 * None
 
 ## Implementation strategy
