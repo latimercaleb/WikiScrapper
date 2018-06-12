@@ -5,8 +5,7 @@ Assuming the user is at the Wikipedia article for Wild Yak​ .
 > What’s the lowest number of clicks to get to the article for the ​ Phil McGraw​ ?
 
 ## Acceptance Criteria
-* Write a program that can take the URLs of two Wikipedia pages and output the
-minimum number of clicks to get from one to the other.
+* Write a program that can take the URLs of two Wikipedia pages and output each link that needs to be clicked to reach the endpoint wikipedia page
 
 * Your program should be runnable one the command line like this:
 `$ my_program ‘Wild yak’ ‘Phil McGraw’`
